@@ -1,4 +1,4 @@
-# Gestion-de-Pa-ol-y-empleados
+# Gestion-de-Pañol-y-empleados
 un sistema simple para controlar las herramientas y materiales asignadas a empleados
 [README.txt](https://github.com/user-attachments/files/34891692/README.txt)
 ##### Gestión de Pañol y Personal##############################################################################################
