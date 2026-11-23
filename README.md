@@ -1,6 +1,3 @@
-# Gestion-de-Pañol-y-empleados
-un sistema simple para controlar las herramientas y materiales asignadas a empleados
-[README.txt](https://github.com/user-attachments/files/34891692/README.txt)
 ##### Gestión de Pañol y Personal##############################################################################################
 
 Aplicación de escritorio para Windows diseñada para administrar de forma integral el inventario de materiales, herramientas, personal y movimientos (asignaciones y devoluciones) de un pañol técnico.
